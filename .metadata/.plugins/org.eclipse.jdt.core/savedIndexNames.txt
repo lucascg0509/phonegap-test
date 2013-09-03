@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/Vitor/Documents/phonegap/.metadata/.plugins/org.eclipse.jdt.core
+3863379923.index
+2792326998.index
+3762834206.index
